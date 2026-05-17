@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Learning Rate,Epochs,Accuracy
+Baseline,32-16,0.001,30,0.84
+More Neurons,64-32,0.001,30,0.86
+Higher Learning Rate,32-16,0.01,30,0.81

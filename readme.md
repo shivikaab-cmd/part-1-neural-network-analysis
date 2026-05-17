@@ -148,14 +148,9 @@ All visualizations are stored inside the `results` folder.
 ```text
 part-1-neural-network-analysis/
 │
-├── notebook.ipynb
 ├── README.md
+├── notebook.ipynb
 ├── requirements.txt
-├── data/
-│   └── customer_churn_nn.csv
-│
-├── results/
-│   ├── churn_distribution.png
-│   ├── accuracy_curve.png
-│   ├── loss_curve.png
-│   └── confusion_matrix.png
+└── results/
+    ├── model_comparison_table.png or .csv
+    └── evaluation_outputs.png
